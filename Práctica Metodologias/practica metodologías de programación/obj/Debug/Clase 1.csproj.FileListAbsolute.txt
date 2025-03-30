@@ -1,0 +1,6 @@
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\Clase 1.exe.config
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\Clase 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\Clase 1.pdb
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\Clase 1.csprojResolveAssemblyReference.cache
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\Clase 1.exe
+C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\Clase 1.pdb
