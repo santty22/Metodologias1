@@ -1,6 +1,0 @@
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\practica metodologías de programación.csprojResolveAssemblyReference.cache
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\practica metodologías de programación.exe.config
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\practica metodologías de programación.exe
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\bin\Debug\practica metodologías de programación.pdb
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\practica metodologías de programación.exe
-C:\Users\Santy\Documents\SharpDevelop Projects\Práctica Metodologias\practica metodologías de programación\obj\Debug\practica metodologías de programación.pdb
